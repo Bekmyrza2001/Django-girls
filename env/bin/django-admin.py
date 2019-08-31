@@ -1,4 +1,4 @@
-#!/home/bekmyrza/Desktop/Pytho/projects/domawka/env/bin/python3
+#!/home/bekmyrza/Desktop/Pytho/projects/togithub/domawka/env/bin/python3
 from django.core import management
 
 if __name__ == "__main__":

@@ -5,6 +5,7 @@ my_venv/
 .env/
 venv/*
 env/*
+env
 env/
 venv/
 __pycache__
