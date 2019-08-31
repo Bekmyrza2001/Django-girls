@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/bekmyrza/Desktop/Pytho/projects/domawka/env"
+VIRTUAL_ENV="/home/bekmyrza/Desktop/Pytho/projects/togithub/domawka/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
