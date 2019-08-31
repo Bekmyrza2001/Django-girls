@@ -9,3 +9,6 @@ def get_index(request):
 def get_news(request):
     return render(request, 'news.html', {})
 
+def get(request):
+    pass
+
